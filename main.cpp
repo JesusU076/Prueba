@@ -50,7 +50,7 @@ int main() {
   dato registro;
   vector<dato> orden;
 int p=0;
-  fin.open("bitacora.txt",ios::in);
+  fin.open("datos.txt",ios::in);
   while(!fin.eof()){
     getline(fin,registro.linea);
     orden.push_back(registro);
