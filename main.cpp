@@ -5,7 +5,6 @@
 #include <string>
 
 using namespace std;
-
 struct dato{
   int key;
   string linea;
