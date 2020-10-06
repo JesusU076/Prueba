@@ -5,6 +5,7 @@
 #include <string>
 
 using namespace std;
+//aqui hay algo
 struct dato{
   int key;
   string linea;
